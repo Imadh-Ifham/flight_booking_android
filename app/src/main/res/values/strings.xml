@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ticket Booking</string>
+    <string name="salofly">SALOFLY</string>
+    <string name="intro_title">Fly anywhere easily\nwithout obstacles</string>
+    <string name="intro_des">Experience the unparalleled\n freedom of unhindered\n flight as you effortlessly travers</string>
+    <string name="get_started">Get Started</string>
+    <string name="i_have_an_account">I have an account</string>
+    <string name="from">From</string>
+    <string name="flight_image_up">Flight Image Up</string>
+    <string name="to">To</string>
+    <string name="dashboard_title">Let\'s Explore the World\n with us!!!</string>
+    <string name="dashboard_UName">Mark Anderson</string>
+    <string name="passengers">Passengers</string>
+</resources>

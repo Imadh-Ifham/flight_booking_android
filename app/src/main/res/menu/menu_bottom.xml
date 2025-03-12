@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/m_home"
+        android:icon="@drawable/bottom_btn1"
+        android:title="Home"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/m_explorer"
+        android:icon="@drawable/bottom_btn2"
+        android:title="Explorer"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/m_bookmark"
+        android:icon="@drawable/bottom_btn3"
+        android:title="Bookmark"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/m_profile"
+        android:icon="@drawable/bottom_btn4"
+        android:title="Profile"
+        app:showAsAction="ifRoom|withText"/>
+
+</menu>
